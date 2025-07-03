@@ -1,4 +1,8 @@
-# 🌟 Web3 Crowdfunding Platform
+# 🚀 FundChain – A Web3 Crowdfunding Platform
+
+FundChain is a decentralized application (DApp) that enables anyone to create and fund campaigns transparently using blockchain technology. Built with Solidity, Next.js, and Ethers.js, this platform ensures secure and trustless crowdfunding without intermediaries.
+
+> **Note**: This project is currently deployed on the Sepolia testnet.
 
 <div align="center">
 
