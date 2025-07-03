@@ -466,16 +466,6 @@ We welcome contributions from the community! Here's how you can help:
    ```
 7. **Open a Pull Request**
 
-### 🏆 Contributors
-
-Thanks to all the amazing contributors who have helped make this project better!
-
-<div align="center">
-
-[![Contributors](https://contrib.rocks/image?repo=03Karan30/web3-CrowdFunding)](https://github.com/03Karan30/web3-CrowdFunding/graphs/contributors)
-
-</div>
-
 ---
 
 ## 🔧 Troubleshooting
